@@ -53,7 +53,8 @@ function App() {
 
   return (
     <div className="konverzija">
-      <h1 className="title">Convert</h1>
+      <h1 className="title">Currency Converter</h1>
+      <hr className="crta" />
       <CurrencyRow
         currencyOptions={currencyOptions}
         selectedCurrency={fromCurrency}

@@ -14,14 +14,26 @@ h1 {
 }
 
 .input {
-  border: 1px solid #333;
+  border: 1.3px solid #9ac2c9;
   border-radius: 0.3rem;
   padding: 0.25rem;
-  width: 9rem;
+  width: 13rem;
+  margin-top: 0.4rem;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 1.4rem;
 }
 
 .select {
   margin-left: 0.5rem;
+  box-shadow: grey;
+  background-color: white;
+  padding: 0.7rem;
+  padding-bottom: 0.4rem;
+  border: 0.3px solid;
+  border-radius: 5%;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  cursor: pointer;
+  font-size: 1rem;
 }
 
 .equals {
@@ -32,12 +44,18 @@ h1 {
 
 .konverzija {
   border: 1px solid #225566;
-  padding: 10rem;
-  background-color: #10200140;
+  padding: 7.25rem;
+  background-color: #8aa1b1;
+  width: 35rem;
+  border-radius: 5%;
 }
 
 .title {
-  padding: 2rem;
-  color: black;
-  margin-bottom: 3.4rem;
+  padding: 0.2rem;
+  color: #31393f;
+  margin-bottom: 0.6rem;
+}
+
+.crta {
+  width: 100%;
 }
