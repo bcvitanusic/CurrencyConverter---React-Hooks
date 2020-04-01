@@ -25,10 +25,13 @@ h1 {
 
 .select {
   margin-left: 0.5rem;
+  width: 15%;
+  height: 2.1rem;
   box-shadow: grey;
   background-color: white;
-  padding: 0.7rem;
-  padding-bottom: 0.4rem;
+  padding: 0.25rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
   border: 0.3px solid;
   border-radius: 5%;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
@@ -44,10 +47,11 @@ h1 {
 
 .konverzija {
   border: 1px solid #225566;
-  padding: 7.25rem;
+  padding: 6.25rem;
   background-color: #8aa1b1;
-  width: 35rem;
-  border-radius: 5%;
+  width: 36rem;
+  border-radius: 1.5%;
+  display: inline-flexbox;
 }
 
 .title {
